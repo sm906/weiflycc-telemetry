@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "weiflycc-telemetry",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dbfd7b61-8230-4f82-9245-ab4274a6891b",
+			"database_name": "weiflycc-info"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
